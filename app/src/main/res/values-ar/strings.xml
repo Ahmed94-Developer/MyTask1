@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مهمتي</string>
+    <string name="posts">منشورات</string>
+    <string name="maps">خرائط</string>
+    <string name="settings_page">صفحة الإعدادات</string>
+    <string name="settings">الإعدادات</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="change_language">تغيير اللغه</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="login_page">صفحة تسجيل الدخول</string>
+    <string name="username">إسم المستخدم :</string>
+    <string name="password">كلمة المرور :</string>
+    <string name="keep_me_logged_in">حفظ تسجيل الدخول</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="signup">إشتراك</string>
+    <string name="sign_up_page">صفحة الاشتراك</string>
+    <string name="confirm_password">تأكيد كلمة المرور :</string>
+    <string name="update_email">تحديث البريد</string>
+    <string name="email">البريد :</string>
+    <string name="update">تحديث</string>
+    <string name="cancel">رجوع</string>
+    <string name="update_password">تحديث كلمة المرور</string>
+    <string name="arabic">العربية</string>
+    <string name="english">الإنجليزية</string>
+    <string name="user_created_successfully">تم إنشاء حساب بنجاح</string>
+    <string name="login_successful">تم تسجيل الدخول بنجاح</string>
+    <string name="login_failed">فشل تسجيل الدخول</string>
+    <string name="mail_updated">تم تحديث البريد الإلكتروني..!</string>
+    <string name="password_updated">تم تحديث كلمة المرور..!</string>
+    <string name="back">رجوع</string>
+
+
+</resources>
